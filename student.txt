@@ -1,0 +1,3 @@
+studentName ajay;  
+studentId   101;
+ 
