@@ -1,3 +1,6 @@
 studentName ajay;  
 studentId   101;
  student   add;
+this is student data
+velocity
+pune
